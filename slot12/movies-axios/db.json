@@ -1,0 +1,25 @@
+{
+  "movies": [
+    {
+      "id": "3be7",
+      "title": "The House",
+      "year": 2018,
+      "duration": 150,
+      "genre": "Horror"
+    },
+    {
+      "id": "3060",
+      "title": "Night Story",
+      "year": 2015,
+      "duration": 90,
+      "genre": "Comedy"
+    },
+    {
+      "id": "b5aa",
+      "title": "Dino",
+      "year": 2020,
+      "duration": 120,
+      "genre": "Action"
+    }
+  ]
+}
