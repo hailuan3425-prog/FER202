@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "john",
+      "password": "123456",
+      "fullName": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": 2,
+      "username": "jane",
+      "password": "123456",
+      "fullName": "Jane Smith",
+      "email": "jane@example.com"
+    }
+  ],
+  "expenses": [
+    {
+      "name": "Lunch",
+      "amount": 150004,
+      "category": "Food",
+      "date": "2025-03-01",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "name": "Bus ticket",
+      "amount": 30000,
+      "category": "Transport",
+      "date": "2025-03-02"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "name": "Movie",
+      "amount": 120000,
+      "category": "Entertainment",
+      "date": "2025-03-03"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "name": "Groceries",
+      "amount": 500000,
+      "category": "Food",
+      "date": "2025-03-01"
+    },
+    {
+      "name": "khoi",
+      "amount": 500000,
+      "category": "Food",
+      "date": "2026-03-07",
+      "userId": 1,
+      "id": 1772791795026
+    },
+    {
+      "name": "rice",
+      "amount": 10,
+      "category": "food",
+      "date": "2026-03-19",
+      "userId": 1,
+      "id": 1773115118727
+    }
+  ]
+}
